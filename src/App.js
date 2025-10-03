@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <nav className="navbar bg-transparent px-3">
         <div className="container-fluid d-flex justify-content-between align-items-center">
-          <a className="navbar-brand d-flex align-items-center" href="/">
+          <a className="navbar-brand d-flex align-items-center" href="https://www.connectyed.com">
             <img src={connyLogo} alt="Conny Logo" className="logo-img me-2" />
           </a>
 
